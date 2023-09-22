@@ -8,6 +8,13 @@ toc:
 
 <!-- do-not-remove -->
 
+## 1.2.1 (2023-09-22)
+
+### Patch Changes
+
+- Fixed pattern for no-server-example.com rule to improve detection accuracy.
+- Updated @redocly/openapi-core to v1.2.1.
+
 ## 1.2.0 (2023-09-18)
 
 ### Minor Changes

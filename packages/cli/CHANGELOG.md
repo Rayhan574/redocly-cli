@@ -1,5 +1,12 @@
 # @redocly/cli
 
+## 1.2.1
+
+### Patch Changes
+
+- Fixed pattern for no-server-example.com rule to improve detection accuracy.
+- Updated @redocly/openapi-core to v1.2.1.
+
 ## 1.2.0
 
 ### Minor Changes
